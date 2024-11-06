@@ -30,17 +30,17 @@
             width: 50%;
         }
 
-        /* Styling for first and last list items */
+       
         ul li:first-child, ul li:last-child {
             font-size: 22px;
         }
 
-        /* Styling for odd list items */
+       
         ul li:nth-child(odd) {
             background-color: white;
         }
 
-        /* Third-to-last item pink background */
+      
         ul li:nth-last-child(3) {
             background-color: pink;
         }
